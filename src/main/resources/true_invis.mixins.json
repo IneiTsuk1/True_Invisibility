@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.IneiTsuki.true_invis.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "InvisibilityArmorHideMixin",
+    "InvisibilityRemoveMixin",
+    "PotionItemMixin",
+    "EntityAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
