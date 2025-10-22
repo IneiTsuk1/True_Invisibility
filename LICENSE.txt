@@ -1,21 +1,75 @@
-The MIT License (MIT)
+IneiTsuki Limited Redistribution License (ILRL) – Version 1.0 (2025)
+==================================================================
 
 Copyright (c) 2025 IneiTsuki
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to use, copy, and modify this software for personal,
+non-commercial purposes only.
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+1. Redistribution Rules
+-----------------------
+
+1.1 Unmodified Redistribution
+- You may redistribute the software in its original, unmodified form.
+- The copyright notice and this license **must remain intact**.
+
+1.2 Modified Redistribution
+- You **cannot redistribute modified versions** (source or compiled) without
+  **prior written permission** from the copyright holder.
+
+1.3 Credit Requirement
+- Any redistribution, modified or unmodified, **must credit the original
+  author** for the unmodified parts of the software.
+
+---
+
+2. Usage Restrictions
+---------------------
+
+- The software is **for personal, non-commercial use only**.
+- You **may not use this software to create derivative works** that violate
+  Minecraft’s End User License Agreement (EULA) or terms of service.
+- This license **does not grant rights** to Minecraft trademarks, logos, or
+  other intellectual property owned by Mojang or Microsoft.
+
+---
+
+3. Warranty Disclaimer
+----------------------
+
+- The software is provided **“as-is”**.
+- The author(s) **do not provide any warranty** of any kind, either express
+  or implied.
+- The author(s) **are not liable** for any damages or claims arising from
+  the use of this software.
+
+---
+
+4. Summary of Key Points
+------------------------
+
+- ✅ Personal, non-commercial use allowed.
+- ⚠ Redistribution of modified versions requires **permission**.
+- ✨ Always credit the original author for unmodified content.
+- 🚫 No Minecraft IP rights granted.
+- ⚡ Software is **provided without warranty**.
+
+---
+
+5. Notes
+--------
+
+- Include this LICENSE.txt in your repository root.
+- Add a short header in every source file, e.g.:
+
+    /*
+     * Copyright (c) 2025 IneiTsuki
+     * Licensed under the IneiTsuki Limited Redistribution License (ILRL)
+     * See LICENSE.txt for full terms.
+     */
+
+- Config or JSON comments should clarify units (e.g., ban_duration is in minutes).
+- This license does not override Mojang/Microsoft's Minecraft EULA:
+  https://account.mojang.com/documents/minecraft_eula
