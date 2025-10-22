@@ -56,7 +56,7 @@ Contributions are welcome! Suggestions, bug reports, and pull requests can be su
 
 ## License
 
-[ILRL](LICENSE)
+[ILRL](LICENSE.txt)
 
 ---
 
